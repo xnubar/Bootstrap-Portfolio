@@ -17,7 +17,7 @@ body{
     color: #fff;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size:24px;
-        height: 70px;
+    height: 60px;
     width: 190px;
     display: inline-block;
     padding: 12px;
@@ -40,12 +40,9 @@ header{
     height: 70px;
     width: 100%;
     background: #fff;
+    padding: 10px;
 }
 
-.header-content{
-    width: 960px;
-    height: 70px;
-}
 .contact{
     background: white;
     border: 1px solid #ddd;

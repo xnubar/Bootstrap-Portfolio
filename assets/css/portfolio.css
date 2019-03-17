@@ -1,61 +1,9 @@
-header .navbar-default {
-    background: #fff !important;
-    border: none;
-    border-bottom: 1px solid #ccc;
-
-}
-
-header {
-    height: 66px;
-}
-
-.navbar-header .username {
-    background: #4aaaa5;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-    height: 66px;
-    width: 140px;
-}
-
-.navbar-header .username:hover {
-    background: #4aaaa5;
-    color: white;
-}
-
-.navbar-collapse .menu li + li::before {
-    content: "|";
-    color: #ccc;
-    float: left;
-    position: relative;
-    display: block;
-    padding-top: 15px;
-    padding-bottom: 15px;
-
-}
-
-.content {
-    padding: 20px;
-    background: rgb(236, 232, 232);
-}
-
 .portfolio {
     border: 1px solid #ccc;
     background: #fff;
     padding: 45px;
     margin-right: 60px;
     margin-bottom: 20px;
-}
-
-.portfolio .portfolio-header .portfolio-header-title {
-    color: #4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size:28px;
-    font-weight: bold;
-}
-
-.portfolio .portfolio-header .portfolio-header-border {
-    border: 1px solid #ccc;
 }
 
 
@@ -87,38 +35,4 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 100%;
     height: 50px;
-}
-.connect-me {
-    border: 1px solid #ccc;
-    background: #fff;
-    padding: 20px;
-}
-
-.connect-me .connect-me-header {
-    text-align: center;
-}
-
-.connect-me .connect-me-header .connect-me-header-title {
-    color: #4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size:24px;
-    font-weight: bold;
-}
-
-.connect-me .connect-me-imgs-container {
-    padding: 20px;
-}
-
-.connect-me .connect-me-imgs-container img {
-    width: 40px;
-    height: 40px;
-}
-
-
-.footer .navbar-default {
-    background: #666 !important;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    padding: 20px;
-    color: #fff;
-    border-top: 8px solid #4aaaa5;
 }

@@ -18,6 +18,11 @@ header {
     width: 140px;
 }
 
+.navbar-header .username:hover {
+    background: #4aaaa5;
+    color: white;
+}
+
 .navbar-collapse .menu li + li::before {
     content: "|";
     color: #ccc;

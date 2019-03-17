@@ -37,6 +37,7 @@ header {
 .content {
     padding: 20px;
     background: rgb(236, 232, 232);
+    height: 1000px;
 }
 
 .header-title {
